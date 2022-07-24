@@ -81,6 +81,7 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 .flexbox-container {
   display: flex;
-  padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 50px;
+    flex-wrap: wrap;
 }
 </style>

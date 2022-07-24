@@ -60,8 +60,6 @@ export default {
   flex-wrap: wrap;
 }
 
-
-
 .flexbox-item{
   width: 200px;
   margin: 10px;
